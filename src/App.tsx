@@ -445,7 +445,7 @@ export default function App() {
               href="https://simple-flow.co"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-[#2f6f53] font-semibold underline underline-offset-2 hover:text-[#1e4d37] transition-colors"
+              className="text-[#243e31] font-medium hover:underline"
             >
               Simple Flow
             </a>
